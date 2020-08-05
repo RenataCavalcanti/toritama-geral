@@ -1,0 +1,33 @@
+baseURL = ""
+languageCode = "pt-br"
+title = "Toritama"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Início"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Saiba mais"
+    url = "/docs/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = 'Leia mais sobre a cidade'
+  homepage_intro = 'Algo aqui sobre a cidade'
+  homepage_image = ''
+
+  [params.logo]
+      mobile = "/logo2.png"
+      standard  = "/logo2.png"
