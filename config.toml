@@ -25,7 +25,7 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Leia mais sobre a cidade'
-  homepage_intro = 'Algo aqui sobre a cidade'
+  homepage_intro = ''
   homepage_image = ''
 
   [params.logo]
