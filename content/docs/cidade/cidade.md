@@ -5,7 +5,7 @@ weight: 2
 summary: "Toritama é um município do estado de Pernambuco e faz parte do Agreste Setentrional..."
 ---
 
-Toritama é um município do estado de Pernambuco e faz parte do Agreste Setentrional. A cidade é bastante conhecida pela confecção do *jeans*, produto este que atrai vários consumidores de todo o Brasil. É no Parque da Feiras onde está localizado o maior comércio da cidade. A cidade possui aproximadamente 45 mil habitantes e enfrenta problemas sérios de infraestrutura. Uma pequena parte da população tem acesso ao saneamento básico: estima-se que apenas 12% da população tem acesso à água e esgoto. Por isso, é necessário investir em infraestrutura de qualidade e expandir o acesso aos direitos básicos dos cidadãos. 
+Toritama é um município do estado de Pernambuco e faz parte do Agreste Setentrional. A cidade é bastante conhecida pela confecção do *jeans*, produto este que atrai vários consumidores de todo o Brasil. É no Parque da Feiras onde está localizado o maior comércio da cidade. A cidade possui aproximadamente 45 mil habitantes e enfrenta problemas sérios de infraestrutura. De acordo com a [Prefeitura de Toritama](https://toritama.pe.gov.br/dados-e-caracteristicas/), 20% da população ainda não tem acesso ao esgotamento sanitário adequado.
 
 O município também apresenta problemas habitacionais e de falta de acessibilidade. Muitos cidadãos ainda vivem em condições inadequadas, com esgoto a céu aberto e falta de água encanada. 
 
